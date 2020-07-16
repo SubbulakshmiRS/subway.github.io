@@ -2,6 +2,14 @@
 
 This is a WebGL imitation of Subway Surfers with major use of three.js . Collect as many points and bonuses as possible and don't get caught by my Racecar ! . For more specifics , refer to the attached pdf .
 
+# *Deployement*
+
+Directly deployed in GitHub pages. If to implement in your local devices or to view the source code, please proceed to the below sections, Else 
+
+```
+https://subbulakshmirs.github.io/subway.github.io/
+```
+
 # *Run*
 
 Download folder .
